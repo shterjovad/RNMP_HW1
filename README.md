@@ -1,4 +1,4 @@
-Sure, let's break down this code piece by piece to understand what it does. This code seems to be a part of a data processing application using Apache Flink and Kafka for stream processing.
+This code is part of a data processing application using Apache Flink and Kafka for stream processing.
 
 ### Package Declaration
 ```java
